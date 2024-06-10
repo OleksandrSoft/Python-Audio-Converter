@@ -68,6 +68,3 @@ Example: `--bitrate=320`
 
 <hr>
 
-## License
-
-The Apache Licence. Please see the [Licence File](LICENCE.md) for more information.
